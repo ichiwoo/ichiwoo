@@ -40,10 +40,7 @@ This portfolio aligns with **SDG 5: Gender Equality**, which focuses on empoweri
 ## 📦 **Dependencies**
 
 - **HTML5**: For creating the webpage structure.
-- **CSS3**: For styling and responsive design.
-  - Includes:
-    - Animations (e.g., gradient background transitions).
-    - Customizable variables (e.g., colors, font sizes).
+- **CSS**: For styling and responsive design.
 - **Font**: `Inconsolata` (Monospace font).
 - **Images**: Stored in a `resources` folder for easy management.
 
