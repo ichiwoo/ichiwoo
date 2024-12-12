@@ -1,5 +1,37 @@
 # My Portfolio Website
+---
+## View Online
+You can access my porfolio directly using this link: [https://ichiwoo.github.io/ichiwoo/
+](https://ichiwoo.github.io/ichiwoo/
+)
 
+## OR
+## View Locally
+Steps to View Locally:
+1. Download All Files from the Google Drive or you can Download all the files from the repository.
+   [https://github.com/ichiwoo/ichiwoo.git](https://github.com/ichiwoo/ichiwoo.git)
+
+2. Organize Files:
+Ensure all downloaded files are placed in the same folder.
+
+Example Folder Structure:
+
+your-portfolio-folder/
+│
+
+├── index.html
+
+├── style.css
+
+├── README.md
+
+├── resources(folder)
+
+4. Run index.html:
+5. Open index.html in any browser capable of executing HTML files (e.g., Chrome, Firefox, Safari).
+
+---
+---
 Welcome to my portfolio website! This project showcases my skills, projects, and alignment with Sustainable Development Goal (SDG) 5: Gender Equality. Below, you'll find instructions on navigating the portfolio, the chosen SDG focus, and details about dependencies and resources used.
 
 ---
@@ -54,5 +86,4 @@ All images used in the portfolio are located in the `resources/` directory:
 - `SDG Goal 5.jpg`: Infographic showcasing SDG 5.
 - `equality_card.png`: Project-related image for the "Project in Action" section.
 
----
-You can access this by going into this link directly: https://ichiwoo.github.io/ichiwoo/
+------
