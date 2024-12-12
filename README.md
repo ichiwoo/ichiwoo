@@ -58,8 +58,4 @@ All images used in the portfolio are located in the `resources/` directory:
 - `equality_card.png`: Project-related image for the "Project in Action" section.
 
 ---
-
-## 🚀 **How to Run**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ichiwoo/portfolio.git
+You can access this by going into this link directly: https://ichiwoo.github.io/ichiwoo/
